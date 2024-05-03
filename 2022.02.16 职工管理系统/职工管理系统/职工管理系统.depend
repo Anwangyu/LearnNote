@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1645601998 source:e:\c++\2022.02.16 职工管理系统\职工管理系统\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstdlib>
+	"workerManager.h"
+	"worker.h"
+	"employee.h"
+	"boss.h"
+	"manager.h"
+
+1645602144 source:e:\c++\2022.02.16 职工管理系统\职工管理系统\src\workermanager.cpp
+	"workerManager.h"
+	<bits/stdc++.h>
+
+1645601528 e:\c++\2022.02.16 职工管理系统\职工管理系统\include\workermanager.h
+	<iostream>
+	"worker.h"
+	"employee.h"
+	"manager.h"
+	"boss.h"
+	<fstream>
+
+1644984816 source:e:\c++\2022.02.16 职工管理系统\职工管理系统\src\worker.cpp
+
+1644984804 e:\c++\2022.02.16 职工管理系统\职工管理系统\include\worker.h
+	<iostream>
+	<string>
+
+1644985920 e:\c++\2022.02.16 职工管理系统\职工管理系统\include\employee.h
+	<iostream>
+	"worker.h"
+	<bits/stdc++.h>
+
+1644985540 source:e:\c++\2022.02.16 职工管理系统\职工管理系统\src\employee.cpp
+	"employee.h"
+
+1644990508 e:\c++\2022.02.16 职工管理系统\职工管理系统\include\boss.h
+	<iostream>
+	"worker.h"
+
+1644990592 source:e:\c++\2022.02.16 职工管理系统\职工管理系统\src\boss.cpp
+	"boss.h"
+
+1644986710 source:e:\c++\2022.02.16 职工管理系统\职工管理系统\src\manager.cpp
+	"manager.h"
+
+1644990340 e:\c++\2022.02.16 职工管理系统\职工管理系统\include\manager.h
+	<iostream>
+	"worker.h"
+

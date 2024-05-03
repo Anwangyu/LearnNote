@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657374840 source:e:\c++\2022.07.09 set容器\set容器-构造和赋值\main.cpp
+	<iostream>
+	<set>
+

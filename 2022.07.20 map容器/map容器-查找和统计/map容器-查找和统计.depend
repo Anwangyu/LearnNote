@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658640606 source:e:\c++\2022.07.20 map容器\map容器-查找和统计\main.cpp
+	<iostream>
+	<map>
+

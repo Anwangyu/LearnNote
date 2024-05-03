@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662448427 source:e:\c++\2022.08.05 算法类\常用拷贝和替换算法-replace_if\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

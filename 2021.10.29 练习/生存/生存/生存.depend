@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1647508954 source:e:\c++\2021.10.29 练习\生存\生存\main.cpp
+	"snake.h"
+
+1647508742 e:\c++\2021.10.29 练习\生存\生存\include\snake.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1647508770 source:e:\c++\2021.10.29 练习\生存\生存\src\snake.cpp
+	"snake.h"
+

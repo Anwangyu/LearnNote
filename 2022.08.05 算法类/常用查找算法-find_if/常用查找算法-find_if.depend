@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660311099 source:e:\c++\2022.08.05 算法类\常用查找算法-find_if\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+

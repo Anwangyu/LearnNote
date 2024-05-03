@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660361978 source:e:\c++\2022.08.05 算法类\常用查找算法-adjacent_find\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

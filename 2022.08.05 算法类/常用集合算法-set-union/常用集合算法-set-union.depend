@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662633254 source:e:\c++\2022.08.05 算法类\常用集合算法-set-union\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

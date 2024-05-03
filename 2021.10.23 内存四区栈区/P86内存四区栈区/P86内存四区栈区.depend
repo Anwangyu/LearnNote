@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634980635 source:e:\c++项目\2021.10.23 内存四区栈区（待交）\p86内存四区栈区\main.cpp
+	<iostream>
+	<stdlib.h>
+

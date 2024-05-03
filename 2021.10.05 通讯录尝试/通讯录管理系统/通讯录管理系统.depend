@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1633444145 source:e:\10.05 通讯录尝试\通讯录管理系统\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
+1633671928 source:e:\c++项目\10.05 通讯录尝试\通讯录管理系统\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
+1633671928 source:e:\c++\2021.10.05 通讯录尝试\通讯录管理系统\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+

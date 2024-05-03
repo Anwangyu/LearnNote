@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633672017 source:e:\c++项目\c++四则运算尝试\c++简易四则运算\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+

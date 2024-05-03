@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658936741 source:e:\c++\2022.04.17 stl初识\stl案例2-员工分组\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<ctime>
+	<cstdlib>
+

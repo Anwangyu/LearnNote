@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656256040 source:e:\c++\2022.04.17 stl初识\stl案例1-评委打分\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+	<algorithm>
+	<string>
+	<ctime>
+

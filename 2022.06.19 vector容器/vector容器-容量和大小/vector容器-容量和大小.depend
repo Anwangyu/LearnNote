@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655815842 source:e:\c++\2022.06.19 vector容器\vector容器-容量和大小\main.cpp
+	<iostream>
+	<vector>
+

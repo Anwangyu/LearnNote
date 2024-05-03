@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1662427231 source:e:\c++\2022.08.05 算法类\常用排序算法-random_shuffle\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676711352 source:e:\c++\2021.10.29 Á·Ï°\demo01\demo0\main.cpp
+	<stdio.h>
+	<malloc.h>
+	<algorithm>
+	<iostream>
+

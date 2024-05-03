@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660021272 source:e:\c++\2022.08.05 算法类\常用遍历算法-transform\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

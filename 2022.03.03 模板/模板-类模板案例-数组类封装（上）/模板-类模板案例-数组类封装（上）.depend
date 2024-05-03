@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650164491 source:e:\c++\2022.03.03 模板\模板-类模板案例-数组类封装（上）\main.cpp
+	<iostream>
+	"MyArray.hpp"
+	<string>
+
+1650162515 e:\c++\2022.03.03 模板\模板-类模板案例-数组类封装（上）\include\myarray.hpp
+	<iostream>
+

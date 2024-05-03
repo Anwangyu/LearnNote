@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647778360 source:e:\c++\2022.03.03 模板\模板-类模板分文件编写\src\person.cpp
+	"person.h"
+
+1647778344 e:\c++\2022.03.03 模板\模板-类模板分文件编写\include\person.h
+	<iostream>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1676798430 source:e:\c++\项目练习\演讲比赛流程管理系统\演讲比赛流程管理.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<speechManager.h>
+
+1676798430 e:\c++\项目练习\演讲比赛流程管理系统\include\speechmanager.h
+	<iostream>
+	<map>
+	"speaker.h"
+	<algorithm>
+	<vector>
+
+1676798495 source:e:\c++\项目练习\演讲比赛流程管理系统\speechmanager.cpp
+	"speechManager.h"
+	<stdio.h>
+	<string>
+	<stdlib.h>
+
+1676796580 e:\c++\项目练习\演讲比赛流程管理系统\include\speaker.h
+	<iostream>
+

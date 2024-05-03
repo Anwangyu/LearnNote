@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651477783 source:e:\c++\2022.04.17 stl初识\vector存放内置数据类型\vector存放内置数据类型\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

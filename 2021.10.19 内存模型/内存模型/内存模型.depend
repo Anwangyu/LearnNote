@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634712932 source:e:\c++项目\2021.10.19\内存模型\main.cpp
+	<iostream>
+	<stdlib.h>
+
